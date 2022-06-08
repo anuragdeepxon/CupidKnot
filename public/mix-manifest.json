@@ -5,5 +5,12 @@
     "/images/bg.jpg": "/images/bg.jpg",
     "/images/gicon.png": "/images/gicon.png",
     "/images/logo.png": "/images/logo.png",
-    "/images/s_bg.jpg": "/images/s_bg.jpg"
+    "/images/s_bg.jpg": "/images/s_bg.jpg",
+    "/images/adminpanel.png": "/images/adminpanel.png",
+    "/images/google.png": "/images/google.png",
+    "/images/login.png": "/images/login.png",
+    "/images/logout.png": "/images/logout.png",
+    "/images/singup1.png": "/images/singup1.png",
+    "/images/singup2.png": "/images/singup2.png",
+    "/images/userpanel.png": "/images/userpanel.png"
 }

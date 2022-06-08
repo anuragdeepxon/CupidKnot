@@ -76,4 +76,23 @@ password: `12345678`
 
 ## Demo Images
 
-![image description](/public/images/google-logo-9824.png)
+Login Page:
+![image description](/public/images/login.png)
+
+SignUp Page:
+![image description](/public/images/signup1.png)
+
+SignUp Page:
+![image description](/public/images/signup2.png)
+
+Google Auth:
+![image description](/public/images/google.png)
+
+User Dashboard:
+![image description](/public/images/userpanel.png)
+
+Admin Dashboard:
+![image description](/public/images/adminpanel.png)
+
+Logout:
+![image description](/public/images/logout.png)
