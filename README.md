@@ -80,10 +80,10 @@ Login Page:
 ![image description](/public/images/login.png)
 
 SignUp Page:
-![image description](/public/images/signup1.png)
+![image description](/public/images/singup1.png)
 
 SignUp Page:
-![image description](/public/images/signup2.png)
+![image description](/public/images/singup2.png)
 
 Google Auth:
 ![image description](/public/images/google.png)
